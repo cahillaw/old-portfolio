@@ -1,0 +1,21 @@
+body {
+    background-color: azure;
+    padding-right: 5px;
+}
+
+p {
+    white-space: pre;
+}
+
+h1 {
+    font-family: Nunito;
+}
+
+h2 {
+    font-weight: bold;
+    padding-right: 5px;
+}
+
+img{
+    max-width: 500px;
+}
